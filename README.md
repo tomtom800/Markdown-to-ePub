@@ -11,4 +11,4 @@ Note that Obsidian Local Images Plus needs the following options to be set:
 - How to write paths in tags: relative to note
 - Folder to save new attachments: next to note in the folder specified below
 
-You can run Obsidian Web Clipper on an iPhone or iPad, but I found the saving to be much more reliable on a Mac. The excellent iPhone app Hyperduck creates a “send to Mac” option in the share sheet which I find a helpful and reliable method.
+You can run Obsidian Web Clipper on an iPhone or iPad, but I found the saving to be much more reliable on a Mac. The excellent iPhone app [Hyperduck](https://sindresorhus.com/hyperduck) creates a “send to Mac” option in the share sheet which I find a helpful and reliable method.
